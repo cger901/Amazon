@@ -1,0 +1,13 @@
+.amazon {
+	background-image: url("../image/amazon.png");
+	height: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	width: 50%;
+	padding-bottom: 25%;
+	background-repeat: no-repeat;
+}
+.backgrounds {
+	background-image: url("../image/title.png");
+	padding-bottom: 1%;
+}

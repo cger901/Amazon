@@ -1,0 +1,10 @@
+div .component {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+div .promotion {
+	background-color: #F9F9F9;
+	height: 0;
+	padding-bottom: 1357%;
+}

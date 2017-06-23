@@ -1,0 +1,17 @@
+.comb {
+	height: 0;
+	width: 16.67%;
+	padding-bottom: 16.67%;
+}
+
+.combs {
+	width: 16.65%
+}
+
+.comb .arrow {
+	border: 1em solid;
+	width: 0;
+	height: 0;
+	margin-top: 45%;
+	float: left;
+}

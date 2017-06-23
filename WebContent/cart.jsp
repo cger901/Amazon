@@ -1,0 +1,32 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ZH">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>亚马逊网购物车</title>
+<script type="text/javascript" src="script/jquery-3.2.1.min.js"></script>
+<script type="text/javascript"
+	src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/index.css" />
+<link rel="shortcut icon" href="image/amazon-icon.png" />
+<link rel="stylesheet" type="text/css"
+	href="bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+</head>
+<body>
+	<div class="container">
+		<!-- 头部 -->
+		<jsp:include page="components/header.jsp"></jsp:include>
+		<!-- 内容 -->
+		<div class="row clearfix component">
+			<div class="col-md-12 column">
+				
+			</div>
+		</div>
+		<!-- 足迹 -->
+		<jsp:include page="components/records.jsp"></jsp:include>
+		<!-- 页脚 -->
+		<jsp:include page="components/footer.jsp"></jsp:include>
+	</div>
+</body>
+</html>
